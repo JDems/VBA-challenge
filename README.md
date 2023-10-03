@@ -1,3 +1,4 @@
 # VBA-challenge
-First time turning in 5/7/2023
-Had a hard time with the 2nd part. Turning in early to get a score and feed back so I may revise later
+
+
+Hello there, I no longer have access to excel and can't make any changes. I was told it was deemed incomplete because not enough things ran properly. I'm curious if this assignment can be graded as is even if the score is unpassable. Thank you.
